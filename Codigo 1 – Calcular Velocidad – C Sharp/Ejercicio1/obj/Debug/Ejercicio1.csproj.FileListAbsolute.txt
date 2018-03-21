@@ -1,1 +1,6 @@
 C:\Users\David\Documents\ArquitecturaTarea02\Codigo 1 – Calcular Velocidad – C Sharp\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Users\David\Documents\ArquitecturaTarea02\Codigo 1 – Calcular Velocidad – C Sharp\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\Users\David\Documents\ArquitecturaTarea02\Codigo 1 – Calcular Velocidad – C Sharp\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Users\David\Documents\ArquitecturaTarea02\Codigo 1 – Calcular Velocidad – C Sharp\Ejercicio1\obj\Debug\Ejercicio1.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\ArquitecturaTarea02\Codigo 1 – Calcular Velocidad – C Sharp\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Users\David\Documents\ArquitecturaTarea02\Codigo 1 – Calcular Velocidad – C Sharp\Ejercicio1\obj\Debug\Ejercicio1.pdb
